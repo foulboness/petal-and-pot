@@ -1,14 +1,14 @@
-# 🌿 Petal & Pot
+# Petal & Pot
 
 > *Bring a little nature home.*
 
 ୨୧ **Petal & Pot** is a charming online plant shop created for plant lovers, curious beginners, and anyone looking to bring a little more green into their space. The website combines a cozy botanical aesthetic with a simple e-commerce experience for discovering plants, pots, gifts, and gardening essentials.
 
-### 🪴 What's Inside
+### What's Inside
 
-* 🌱 **Shop** — Browse houseplants, succulents, cacti, flowers & terrariums
-* 🏺 **Pots & Accessories** — Find cute planters and little gardening essentials
-* 🌸 **Plant Finder** — Discover plants based on your space and lifestyle
+* **Shop** — Browse houseplants, succulents, cacti, flowers & terrariums
+* **Pots & Accessories** — Find cute planters and little gardening essentials
+* **Plant Finder** — Discover plants based on your space and lifestyle
 * 🍃 **Care Guide** — Learn about watering, sunlight, repotting & plant care
 * 🎁 **Gift Shop** — Curated plant bundles and beginner-friendly kits
 * ♡ **Wishlist** — Save your favourite plants for later
