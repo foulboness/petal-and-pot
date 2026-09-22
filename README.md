@@ -15,51 +15,14 @@
 * **Shopping Cart** — Add, remove & manage your leafy finds
 * **Checkout** — Choose delivery or pickup and complete your order
 
-### ✦ The Aesthetic
+### The Aesthetic
 
 Soft sage · warm cream · dusty pink · botanical illustrations · paper textures · ceramic pots · tiny leaves
 
 The design takes inspiration from **cozy greenhouses, cottage gardens, pressed flowers, vintage botanical books, handmade pottery, and little plant shops tucked away on quiet streets.**
 
-### 🌿 Features
 
-```text
-HOME
- ├── Hero
- ├── Featured Plants
- ├── Best Sellers
- ├── Seasonal Picks
- └── Our Story
-
-SHOP
- ├── Houseplants
- ├── Succulents
- ├── Cacti
- ├── Flowers
- ├── Terrariums
- └── Pots & Accessories
-
-PLANT FINDER
- ├── Light Level
- ├── Experience
- ├── Space
- ├── Watering Needs
- └── Plant Recommendations
-
-PLANT CARE
- ├── Watering
- ├── Sunlight
- ├── Repotting
- └── Common Plant Problems
-
-CART & CHECKOUT
- ├── Wishlist
- ├── Order Summary
- ├── Delivery / Pickup
- └── Order Confirmation
-```
-
-### 🛠️ Built With
+### Built With
 
 `HTML` · `CSS` · `JavaScript`
 
