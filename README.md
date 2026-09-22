@@ -26,14 +26,14 @@ The design takes inspiration from **cozy greenhouses, cottage gardens, pressed f
 
 `HTML` · `CSS` · `JavaScript`
 
-### 🌱 Getting Started
+### Getting Started
 
 Want to grow something locally? Here's how to get **Petal & Pot** blooming on your machine.
 
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/petal-and-pot.git
+git clone https://github.com/foulboness/petal-and-pot.git
 ```
 
 **2. Open the project**
@@ -46,7 +46,7 @@ cd petal-and-pot
 
 Open `index.html` directly in your browser, or open the project in **VS Code** and use the **Live Server** extension for a smoother development experience.
 
-### 🍃 A Little Note
+### A Little Note
 
 Petal & Pot was created as a creative e-commerce concept inspired by **houseplants, cozy spaces, tiny greenhouses, handmade pottery, and the simple joy of watching something grow.**
 
@@ -54,10 +54,10 @@ Petal & Pot was created as a creative e-commerce concept inspired by **houseplan
 
 ---
 
-### ୨୧ Credits
+### ୨Credits
 
 **Designed & coded with love by Miksha ♡**
 
-Made for plant people, cozy corners & little green things. 🌱
+Made for plant people, cozy corners & little green things. 
 
 `© 2026 Petal & Pot`
