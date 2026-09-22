@@ -9,11 +9,11 @@
 * **Shop** — Browse houseplants, succulents, cacti, flowers & terrariums
 * **Pots & Accessories** — Find cute planters and little gardening essentials
 * **Plant Finder** — Discover plants based on your space and lifestyle
-* 🍃 **Care Guide** — Learn about watering, sunlight, repotting & plant care
-* 🎁 **Gift Shop** — Curated plant bundles and beginner-friendly kits
-* ♡ **Wishlist** — Save your favourite plants for later
-* 🛒 **Shopping Cart** — Add, remove & manage your leafy finds
-* 🚚 **Checkout** — Choose delivery or pickup and complete your order
+* **Care Guide** — Learn about watering, sunlight, repotting & plant care
+* **Gift Shop** — Curated plant bundles and beginner-friendly kits
+* **Wishlist** — Save your favourite plants for later
+* **Shopping Cart** — Add, remove & manage your leafy finds
+* **Checkout** — Choose delivery or pickup and complete your order
 
 ### ✦ The Aesthetic
 
