@@ -1,0 +1,6 @@
+{
+  "name": "Petal & Pot",
+  "description": "A cute, elegant e-commerce plant shop with a soft botanical, cottage-inspired aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
